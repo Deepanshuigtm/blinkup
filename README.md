@@ -35,7 +35,7 @@ Before running the app, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git [https://github.com/Deepanshuigtm/blinkup]
+   git clone https://github.com/Deepanshuigtm/blinkup
    cd blinkup
    ```
 
