@@ -5,7 +5,7 @@
 This is a Flutter application that replicates the home screen of a grocery delivery app similar to Blinkit. The app allows users to browse products by category, view product details, and add items to their cart. It features a clean UI with category filters, a product grid, and a bottom navigation bar for easy navigation.
 
 ### Features
-- **Category Filters**: Users can filter products by categories such as All, Dry Fruits & Masala, Cold Drinks & Juices, Sweet Tooth, Instant & Frozen Food, and Vegetables.
+- **Category Filters**: Users can filter products by categories such as All, Vegetables, Cold Drinks & Juices, Sweet Tooth, Instant & Frozen Food, and Vegetables.
 - **Product Grid**: Displays products with details like image, name, weight, price, MRP, discount percentage, and an "Add" button.
 - **Welcome Banner**: A visually appealing banner with a welcome message and call-to-action.
 - **Bottom Navigation Bar**: Includes tabs for Home, Order Again, Categories, and Print.
@@ -16,9 +16,12 @@ This is a Flutter application that replicates the home screen of a grocery deliv
 ### Home Screen with Vegetables Category
 Below is a screenshot of the home screen displaying the "Vegetables" category. It shows a grid of products including Broccoli, Red & Yellow Bell Pepper, Cabbage, and Green Kiwi.
 
-![Vegetables Category Screenshot](screenshots/vegetables_category.png)
+![WhatsApp Image 2025-04-23 at 3 02 17 AM](https://github.com/user-attachments/assets/10753177-abf6-4c48-ae48-e830fa8be7b8)
 
-*Note*: Replace `screenshots/vegetables_category.png` with the actual path to your screenshot once you add it to the repository.
+![WhatsApp Image 2025-04-23 at 3 02 17 AM-2](https://github.com/user-attachments/assets/9babe4a7-77f5-4998-a776-3bcc97695cb8)
+
+<img width="1440" alt="Screenshot 2025-04-23 at 3 00 42 AM" src="https://github.com/user-attachments/assets/f3dab3be-5fe4-4ea3-ad8c-9bebacdac0e2" />
+
 
 ## Prerequisites
 
@@ -32,8 +35,8 @@ Before running the app, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/blinkit-flutter-app.git
-   cd blinkit-flutter-app
+   git [clone https://github.com/yourusername/blinkit-flutter-app.git](https://github.com/Deepanshuigtm/blinkup)
+   cd blinkup
    ```
 
 2. **Install Dependencies**:
