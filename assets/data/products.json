@@ -1,0 +1,187 @@
+{
+  "sweet_tooth": [
+    {
+      "item_image_url": "https://assets.unileversolutions.com/v1/1862840.png?im=AspectCrop=(985,985);Resize=(985,985)",
+      "name": "Kwality Walls Cornetto Double Choco...",
+      "rating": 4.5,
+      "price": 40,
+      "quantity_ml": 105
+    },
+    {
+      "item_image_url": "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3dc88ded-7843-4b9e-97a3-c7e999358150.jpg?ts=1717318652",
+      "name": "Top N Town Frosty Ice Cream Stick",
+      "rating": 4.0,
+      "price": 40,
+      "quantity_ml": 70
+    },
+    {
+      "item_image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1uvo7A2oXnyLbTvzrTYNg7Exd_ZHSwd6G3eZvqKNEx1mILnAdiHfd1_7jaUFz-E78Ki27R7QQ9yEcvPRzz8NF0jbyOvbbCu3mU2oLdgUNfkAaGngmbZUOMw",
+      "name": "Amul Vanilla Magic Ice Cream Tub",
+      "rating": 4.5,
+      "price": 195,
+      "quantity_ml": 11
+    },
+    {
+      "item_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7Hj-px6UndY_XRp-uMxxbicAxZu3vtPCgQ&s",
+      "name": "Vadilal Mango Badabite Ice Cream Stick",
+      "rating": 4.5,
+      "price": 50,
+      "quantity_ml": 80
+    },
+    {
+      "item_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_WeFROyKW8lXhLW46tZClIEp1mL4iwy2OJg&s",
+      "name": "Vadilal Matka Kulfi",
+      "rating": 4.0,
+      "price": 60,
+      "quantity_ml": 100
+    },
+    {
+      "item_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm162FTxuoMDHAdOrj0PbywBgwiURoePWUsg&s",
+      "name": "Vadilal Slice Cassata Ice Cream",
+      "rating": 5.0,
+      "price": 80,
+      "quantity_ml": 150
+    }
+  ],
+  "cold_drinks_and_juices": [
+    {
+      "item_image_url": "https://www.bbassets.com/media/uploads/p/l/251014_12-thums-up-soft-drink.jpg",
+      "name": "Thums Up Soft Drink (750 ml)",
+      "rating": 4.5,
+      "price": 40,
+      "quantity_ml": 750
+    },
+    {
+      "item_image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=900/app/images/products/sliding_image/15288a.jpg?ts=1698840601",
+      "name": "Coca-Cola Diet Coke Soft Drink",
+      "rating": 4.0,
+      "price": 40,
+      "quantity_ml": 300
+    },
+    {
+      "item_image_url": "https://m.media-amazon.com/images/I/71f6xvYxEcL.jpg",
+      "name": "Coca-Cola Soft Drink (750 ml)",
+      "rating": 4.5,
+      "price": 40,
+      "quantity_ml": 750
+    },
+    {
+      "item_image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQZvMrhrvhA0S2ox8tIQ26LmDhbiTQK4k8Xp-NzWWosjcksONDHdPFr738Nq3v7a0NCozPWebEj5okviIh1dM-HNiMJNjpxqnfEPz59N2z5pkMbGj2qjXDv",
+      "name": "Sprite Lime Flavored Soft Drink 750 ml",
+      "rating": 4.5,
+      "price": 40,
+      "quantity_ml": 750
+    },
+    {
+      "item_image_url": "https://m.media-amazon.com/images/I/71VIMybkA7L.jpg",
+      "name": "7UP Nimbooz with Lemon Juice",
+      "rating": 4.5,
+      "price": 25,
+      "quantity_ml": 350
+    },
+    {
+      "item_image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ98U4BkMxiT8wJiMgFvgQ5ZBlX5TxIov_lrPHQiqOvUsM1v9YervNoiAnEqR6i_Y6eEqx6M-Uo3CrJg0j4rAxwZjMQgopPNwZ-hXoYYWwAXaadBZY5wMjffA",
+      "name": "Coca-Cola Soft Drink (250 ml)",
+      "rating": 4.5,
+      "price": 20,
+      "quantity_ml": 250
+    }
+  ],
+  "vegetables": [
+    {
+      "name": "Coriander Bunch (Dhaniya Patta)",
+      "rating": 4.6,
+      "price": 12,
+      "mrp": 16,
+      "weight_g": 100,
+      "item_image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1800/app/assets/products/sliding_images/jpeg/58045fa9-1fe4-4698-8e8d-ae9aed0bcef4.jpg?ts=1717782379"
+    },
+    {
+      "name": "Desi Tomato (Tamatar)",
+      "rating": 4.4,
+      "price": 18,
+      "mrp": 24,
+      "weight_g": 500,
+      "item_image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1800/app/assets/products/sliding_images/jpeg/442798c8-4004-41a6-94b5-3ffba5b9f0c1.jpg?ts=1741346684"
+    },
+    {
+      "name": "Onion (Pyaz)",
+      "rating": 4.3,
+      "price": 27,
+      "mrp": 34,
+      "weight_g": 1000,
+      "item_image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1800/app/assets/products/sliding_images/jpeg/a1ba074a-c085-4dd1-b4a4-2f247d6f211d.jpg?ts=1711010249"
+    },
+    {
+      "name": "Green Chilli 100 g (Hari Mirch)",
+      "rating": 4.2,
+      "price": 10,
+      "mrp": 13,
+      "weight_g": 100,
+      "item_image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1800/app/assets/products/sliding_images/jpeg/27055af4-f9ca-49f5-a84b-cf407583be43.jpg?ts=1711019907"
+    },
+    {
+      "name": "Potato (Aloo)",
+      "rating": 4.4,
+      "price": 26,
+      "mrp": 34,
+      "weight_g": 1000,
+      "item_image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1800/app/assets/products/sliding_images/jpeg/010338d5-1e38-41fd-b918-6f0daebcdd0f.jpg?ts=1711473369"
+    },
+    {
+      "name": "Ginger (Adrak)",
+      "rating": 4.3,
+      "price": 20,
+      "mrp": 27,
+      "weight_g": 200,
+      "item_image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1800/app/assets/products/sliding_images/jpeg/1a3564c0-b467-4a8e-90f2-fe5bec7c613b.jpg?ts=1722935025"
+    }
+  ],
+  "instant_and_frozen_food": [
+    {
+      "item_image_url":"https://www.maggi.in/sites/default/files/styles/product_image_tab_portrait_708_600/public/maggi-2minutes-noodles-617x900.png?itok=iJWsobZh",
+      "name": "Maggi Masala - 2 Minutes Instant Noodles",
+      "rating": 4.4,
+      "price": 60,
+      "weight_g": 280
+    },
+    {
+      "item_image_url":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRIjll0P3o8A4F3iODjLd_8OFsoxSGLihkVtLiTizhmrGW9igjjUYAQqWNIGfkZSJg2bkJNZ8gvIdc0GOwEW8yYMAiwkkuAurhc7ITOX8ZhikHJF5xlyvQm",
+      "name": "Maggi Masala 2 Minutes Instant Noodles",
+      "rating": 4.3,
+      "price": 120,
+      "weight_g": 560
+    },
+    {
+      "item_image_url":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1a1ZrQvJLY5V5aL002iIKSi6SyKJbS0LBshLeWjuoV9_hYOLFOZlHE4vMhDO-p2ykNfq_JQ0GGioJQrPw8J-Ur3u0Tc_IcbibLuCafLU2z0mFWyARyPhTVw",
+      "name": "Maggi 2-Minute Instant Noodles (Pack of 12)",
+      "rating": 4.4,
+      "price": 172,
+      "mrp": 180,
+      "weight_g": 840
+    },
+    {
+      "item_image_url":"https://www.maggi.in/sites/default/files/styles/product_image_tab_portrait_708_600/public/maggi-masala-veg-aata-noodles.png?itok=zekpZZPc",
+      "name": "Maggi Nutri-Licious Masala Veg Atta Noodles",
+      "rating": 4.2,
+      "price": 105,
+      "mrp": 116,
+      "weight_g": 290
+    },
+    {
+      "item_image_url":"https://m.media-amazon.com/images/I/812ySd81W+L._AC_UF1000,1000_QL80_.jpg",
+      "name": "Maggi Cuppa Masala Cup Noodles",
+      "rating": 4.3,
+      "price": 50,
+      "weight_g": 70.5
+    },
+    {
+      "item_image_url":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSxAnyP8Dy0XaE0eNERAKGboE3-mysPjtWuwQyLcb97ydD7g5HTxtQ6XZQ8n6Bdl1wXQhLT0iYxiWMY0hy1h9JoDrW777rqBQ",
+      "name": "Maggi Korean BBQ Veg Instant Noodles",
+      "rating": 4.2,
+      "price": 50,
+      "mrp": 60,
+      "weight_g": 90
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "sweet_tooth": [
+    {
+      "item_image_url": "https://www.kwalitywalls.in/sites/default/files/2021-06/cornetto-choco-hazelnut.jpg",
+      "name": "Kwality Walls Cornetto Double Choco...",
+      "rating": 4.5,
+      "price": 40,
+      "quantity_ml": 105
+    },
+    {
+      "item_image_url": "https://www.topntown.com/wp-content/uploads/2023/01/Frosty-Ice-Cream-Stick-Chocolate-70-ml.jpg",
+      "name": "Top N Town Frosty Ice Cream Stick",
+      "rating": 4.0,
+      "price": 40,
+      "quantity_ml": 70
+    },
+    {
+      "item_image_url": "https://www.amul.com/sites/default/files/products-images/vanilla-magic-ice-cream-tubs-125-ml.png",
+      "name": "Amul Vanilla Magic Ice Cream Tub",
+      "rating": 4.5,
+      "price": 195,
+      "quantity_ml": 11
+    },
+    {
+      "item_image_url": "https://www.vadilalicecreams.com/uploads/product/7f78e81a-0a7f-4b4b-8f3e-6b8f7d8e1c4d.png",
+      "name": "Vadilal Mango Badabite Ice Cream Stick",
+      "rating": 4.5,
+      "price": 50,
+      "quantity_ml": 80
+    },
+    {
+      "item_image_url": "https://www.vadilalicecreams.com/uploads/product/6e9b4f1a-5d7e-4f2a-9c1d-3e8b2a7f4c9e.png",
+      "name": "Vadilal Matka Kulfi",
+      "rating": 4.0,
+      "price": 60,
+      "quantity_ml": 100
+    },
+    {
+      "item_image_url": "https://www.vadilalicecreams.com/uploads/product/9a8b7c6d-4e3f-5a2b-1c9d-8e7f6a5b4d3e.png",
+      "name": "Vadilal Slice Cassata Ice Cream",
+      "rating": 5.0,
+      "price": 80,
+      "quantity_ml": 150
+    }
+  ],
+  "cold_drinks_and_juices": [
+    {
+      "item_image_url": "https://www.thums-up.in/sites/default/files/2021-06/thums-up-750ml.png",
+      "name": "Thums Up Soft Drink (750 ml)",
+      "rating": 4.5,
+      "price": 40,
+      "quantity_ml": 750
+    },
+    {
+      "item_image_url": "https://www.coca-cola.com/content/dam/onexp/coca-cola/en/global/diet-coke.png",
+      "name": "Coca-Cola Diet Coke Soft Drink",
+      "rating": 4.0,
+      "price": 40,
+      "quantity_ml": 300
+    },
+    {
+      "item_image_url": "https://www.coca-cola.com/content/dam/onexp/coca-cola/en/global/coca-cola.png",
+      "name": "Coca-Cola Soft Drink (750 ml)",
+      "rating": 4.5,
+      "price": 40,
+      "quantity_ml": 750
+    },
+    {
+      "item_image_url": "https://www.sprite.in/sites/default/files/2021-06/sprite-750ml.png",
+      "name": "Sprite Lime Flavored Soft Drink 750 ml",
+      "rating": 4.5,
+      "price": 40,
+      "quantity_ml": 750
+    },
+    {
+      "item_image_url": "https://www.7up.com/sites/default/files/2021-06/7up-nimbooz-lemon.png",
+      "name": "7UP Nimbooz with Lemon Juice",
+      "rating": 4.5,
+      "price": 25,
+      "quantity_ml": 350
+    },
+    {
+      "item_image_url": "https://www.coca-cola.com/content/dam/onexp/coca-cola/en/global/coca-cola.png",
+      "name": "Coca-Cola Soft Drink (250 ml)",
+      "rating": 4.5,
+      "price": 20,
+      "quantity_ml": 250
+    }
+  ],
+  "dry_fruit_masala_and_oil": [
+    {
+      "name": "Tata Salt (Vacuum Evaporated Iodized)",
+      "rating": 4.5,
+      "price": 29,
+      "mrp": 30,
+      "weight_g": 1000
+    },
+    {
+      "name": "Whole Farm Grocery Sugar (Packet)",
+      "rating": 4.4,
+      "price": 52,
+      "mrp": 60,
+      "weight_g": 1000
+    },
+    {
+      "name": "Fortune Premium Kachi Ghani Pure Mustard Oil",
+      "rating": 4.3,
+      "price": 165,
+      "mrp": 195,
+      "volume_ml": 1000
+    },
+    {
+      "name": "Fortune Soya Health Refined Soyabean Oil",
+      "rating": 4.3,
+      "price": 154,
+      "mrp": 190,
+      "volume_ml": 1000
+    },
+    {
+      "name": "Madhur Pure & Hygienic Sulphurless Sugar",
+      "rating": 4.3,
+      "price": 59,
+      "mrp": 65,
+      "weight_g": 1000
+    },
+    {
+      "name": "Mahakosh Refined Soyabean Oil",
+      "rating": 4.2,
+      "price": 139,
+      "mrp": 164,
+      "weight_g": 770
+    }
+  ],
+  "instant_and_frozen_food": [
+    {
+      "name": "Maggi Masala - 2 Minutes Instant Noodles",
+      "rating": 4.4,
+      "price": 60,
+      "weight_g": 280
+    },
+    {
+      "name": "Maggi Masala 2 Minutes Instant Noodles",
+      "rating": 4.3,
+      "price": 120,
+      "weight_g": 560
+    },
+    {
+      "name": "Maggi 2-Minute Instant Noodles (Pack of 12)",
+      "rating": 4.4,
+      "price": 172,
+      "mrp": 180,
+      "weight_g": 840
+    },
+    {
+      "name": "Maggi Nutri-Licious Masala Veg Atta Noodles",
+      "rating": 4.2,
+      "price": 105,
+      "mrp": 116,
+      "weight_g": 290
+    },
+    {
+      "name": "Maggi Cuppa Masala Cup Noodles",
+      "rating": 4.3,
+      "price": 50,
+      "weight_g": 70.5
+    },
+    {
+      "name": "Maggi Korean BBQ Veg Instant Noodles",
+      "rating": 4.2,
+      "price": 50,
+      "mrp": 60,
+      "weight_g": 90
+    }
+  ]
+}
